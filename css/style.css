@@ -1,0 +1,65 @@
+	nav ul li{
+			display: inline-block;
+			margin: 0px;
+			
+	}
+	nav a {
+			margin:0px;
+			padding: 0px;
+			border: 0px solid;
+			background:#454343;
+			text-decoration:none;
+			color:black;
+	}
+	nav a:hover {
+			padding: 0px;
+			border: 0px solid;
+			background:white;
+			color:black;
+			text-decoration:none;
+	}
+
+	.div_body {
+		border: 5px solid black;
+		padding:0px;
+		height:700px;
+		width:1130px;
+		background: #BDBDBD;
+	
+		background-repeat:no-repeat;
+		margin-left:auto;
+		margin-right:auto;
+		opacity:0.7;
+		filter:alpha (opacity=50);
+		background-image:url(../img/pinguino.png);
+		background-repeat:no-repeat;
+		background-position:center;
+		
+	}
+	
+	.div_contenido h1{
+		color:black;
+		margin-left:10px;
+		font:bold;
+	}
+	.div_contenido a{
+		
+		color:green;
+	}
+	.div_contenido ul li{
+		margin-left:50px;
+	
+	}
+	.menu {
+		margin-top:10px;
+		width:100%;
+		height:20px;
+		overflow:hidden;
+		
+	}
+	
+	.div_enlace{
+		margin-left:10px;
+	}
+	
+	
